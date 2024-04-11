@@ -1,0 +1,7 @@
+#article-first.child{
+    background-color: blue;
+    padding: 20px;
+    margin: 10px;
+    flex: 1;
+    border: 2px solid brown;
+}
